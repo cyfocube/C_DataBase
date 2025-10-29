@@ -1,0 +1,34 @@
+{
+  "tokenName": "Dev1",
+  "tokenSymbol": "DEV1",
+  "description": "Token deployed via C-Cube platform",
+  "initialSupply": "1000",
+  "walletAddress": "0x841602FAC0c99E12ac19620F9D50E4a023B1D4eB",
+  "twitter": "",
+  "website": "",
+  "telegram": "",
+  "success": true,
+  "contractAddress": "0x1238D8EF39134c0901d815782C5c328811C5a33a",
+  "transactionHash": "0x828e191f3c63dfafc217350e36dba4b386b2db17b9374ed0b75c4cf79bc4cc17",
+  "explorerUrl": "https://bscscan.com/address/0x1238D8EF39134c0901d815782C5c328811C5a33a",
+  "deploymentInfo": {
+    "contractAddress": "0x1238D8EF39134c0901d815782C5c328811C5a33a",
+    "transactionHash": "0x828e191f3c63dfafc217350e36dba4b386b2db17b9374ed0b75c4cf79bc4cc17",
+    "tokenName": "Dev1",
+    "tokenSymbol": "DEV1",
+    "decimals": 18,
+    "initialSupply": "1000",
+    "ownerAddress": "0x841602FAC0c99E12ac19620F9D50E4a023B1D4eB",
+    "network": "BSC Mainnet",
+    "chainId": 56,
+    "deployedAt": "2025-10-29T18:12:25.831Z",
+    "explorerUrl": "https://bscscan.com/address/0x1238D8EF39134c0901d815782C5c328811C5a33a"
+  },
+  "metadata": {
+    "contractAddress": "0x1238D8EF39134c0901d815782C5c328811C5a33a",
+    "hasImage": false,
+    "imageUrl": null,
+    "createdAt": "2025-10-29T18:12:25.834Z",
+    "dataFile": "1238d8ef39134c0901d815782c5c328811c5a33a.json"
+  }
+}
